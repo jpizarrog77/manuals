@@ -1,0 +1,11 @@
+- Menú para gestión de empleados
+	- dar de alta a un empleado
+	- dar de baja un empleado
+	- listar empleados
+	- consultar datos del empleado
+	- modificar salario
+	- modificar horas
+	- salir
+- Cuando se inicializa el programa se carga un archivo.txt donde están registrados todos los empleados
+	En este archivo se registra distinta información: nombre, id_empleado, sueldo, horas que trabaja para la 	empresa...
+- Tiene que haber persistencia de la información

@@ -1,0 +1,19 @@
+/*
+menu con 3 opciones:
+    Juego nuevo
+    Cargar partidas
+    Salir
+en juego nuevo: n jugadores entre 2 y 4.
+    pide datos de cada jugador
+    salen los turnos con dos cartas cada uno, con palo y numero. Aparece el valor sumado de cada carta
+    submenu de opciones
+        Dame carta
+        Salir
+
+        Si se da carta, se añade la nueva carta a la suma
+        mensaje de si te has pasado de 21 o no
+    Se pasa al siguiente turno
+en Cargar partidas
+    aparece registro con fecha y hora de cada partida y 
+    como han qiedado los jugadores participantes con sus puntos
+*/
